@@ -1,5 +1,5 @@
-"# Swagger-project-java" 
-"# Swagger_project_java" 
+# Swagger-project-java
+
 #Out put :-
 
 ![swagger1](https://github.com/user-attachments/assets/63251176-e795-41f1-a6c4-1b1a55fd7f27)
